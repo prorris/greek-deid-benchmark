@@ -1,0 +1,316 @@
+{
+ "exported": "2026-08-24T06:35:30.235Z",
+ "source": "disagreements.json",
+ "decisions": [
+  {
+   "uid": "ca01_aborted_arrest_icd:2220-2230",
+   "note": "ca01_aborted_arrest_icd",
+   "lo": 2220,
+   "hi": 2230,
+   "kind": "a_only",
+   "category": "date",
+   "text": "23/10/2023",
+   "decision": "redact"
+  },
+  {
+   "uid": "ca01_tamponade_drained:591-595",
+   "note": "ca01_tamponade_drained",
+   "lo": 591,
+   "hi": 595,
+   "kind": "a_only",
+   "category": "date",
+   "text": "2021",
+   "decision": "keep"
+  },
+  {
+   "uid": "cs02_bentall:832-836",
+   "note": "cs02_bentall",
+   "lo": 832,
+   "hi": 836,
+   "kind": "a_only",
+   "category": "date",
+   "text": "2021",
+   "decision": "keep"
+  },
+  {
+   "uid": "cs05_asd_flutter_ablation:756-768",
+   "note": "cs05_asd_flutter_ablation",
+   "lo": 756,
+   "hi": 768,
+   "kind": "b_only",
+   "category": "date",
+   "text": "προ εξαμήνου",
+   "decision": "keep"
+  },
+  {
+   "uid": "cs05_fontan_followup:543-547",
+   "note": "cs05_fontan_followup",
+   "lo": 543,
+   "hi": 547,
+   "kind": "a_only",
+   "category": "date",
+   "text": "1993",
+   "decision": "keep"
+  },
+  {
+   "uid": "cs05_redo_adhesions:484-488",
+   "note": "cs05_redo_adhesions",
+   "lo": 484,
+   "hi": 488,
+   "kind": "a_only",
+   "category": "date",
+   "text": "1983",
+   "decision": "keep"
+  },
+  {
+   "uid": "cs06_2_pve_reop:660-664",
+   "note": "cs06_2_pve_reop",
+   "lo": 660,
+   "hi": 664,
+   "kind": "a_only",
+   "category": "date",
+   "text": "2018",
+   "decision": "keep"
+  },
+  {
+   "uid": "cs07_lvad_stroke:886-890",
+   "note": "cs07_lvad_stroke",
+   "lo": 886,
+   "hi": 890,
+   "kind": "a_only",
+   "category": "date",
+   "text": "2018",
+   "decision": "keep"
+  },
+  {
+   "uid": "cs07_lvad_stroke:979-983",
+   "note": "cs07_lvad_stroke",
+   "lo": 979,
+   "hi": 983,
+   "kind": "a_only",
+   "category": "date",
+   "text": "2015",
+   "decision": "keep"
+  },
+  {
+   "uid": "cs07_shock_team:655-659",
+   "note": "cs07_shock_team",
+   "lo": 655,
+   "hi": 659,
+   "kind": "a_only",
+   "category": "date",
+   "text": "2015",
+   "decision": "keep"
+  },
+  {
+   "uid": "cs12_redo_cabg:425-434",
+   "note": "cs12_redo_cabg",
+   "lo": 425,
+   "hi": 434,
+   "kind": "b_only",
+   "category": "date",
+   "text": "(το 2009)",
+   "decision": "keep"
+  },
+  {
+   "uid": "ne02_travel_plan:874-878",
+   "note": "ne02_travel_plan",
+   "lo": 874,
+   "hi": 878,
+   "kind": "a_only",
+   "category": "date",
+   "text": "2020",
+   "decision": "keep"
+  },
+  {
+   "uid": "ne03_tx_skin_cancer:1021-1025",
+   "note": "ne03_tx_skin_cancer",
+   "lo": 1021,
+   "hi": 1025,
+   "kind": "a_only",
+   "category": "date",
+   "text": "2021",
+   "decision": "keep"
+  },
+  {
+   "uid": "ne04_01_dialysis_tourist:792-796",
+   "note": "ne04_01_dialysis_tourist",
+   "lo": 792,
+   "hi": 796,
+   "kind": "a_only",
+   "category": "date",
+   "text": "2018",
+   "decision": "keep"
+  },
+  {
+   "uid": "cs01_cabg_emerg_failed_pci:472-484",
+   "note": "cs01_cabg_emerg_failed_pci",
+   "lo": 472,
+   "hi": 484,
+   "kind": "b_only",
+   "category": "address",
+   "text": "Νέας Σμύρνης",
+   "decision": "redact"
+  },
+  {
+   "uid": "cs01_cabg_hit_suspicion:401-412",
+   "note": "cs01_cabg_hit_suspicion",
+   "lo": 401,
+   "hi": 412,
+   "kind": "b_only",
+   "category": "address",
+   "text": "Νέας Ιωνίας",
+   "decision": "redact"
+  },
+  {
+   "uid": "cs09_mitral_flight_islander:577-582",
+   "note": "cs09_mitral_flight_islander",
+   "lo": 577,
+   "hi": 582,
+   "kind": "a_only",
+   "category": "address",
+   "text": "Ρόδου",
+   "decision": "redact"
+  },
+  {
+   "uid": "cs09_mitral_flight_islander:1411-1416",
+   "note": "cs09_mitral_flight_islander",
+   "lo": 1411,
+   "hi": 1416,
+   "kind": "a_only",
+   "category": "address",
+   "text": "Ρόδος",
+   "decision": "redact"
+  },
+  {
+   "uid": "cs12_avr_farmer:2206-2215",
+   "note": "cs12_avr_farmer",
+   "lo": 2206,
+   "hi": 2215,
+   "kind": "a_only",
+   "category": "address",
+   "text": "Ιεράπετρα",
+   "decision": "redact"
+  },
+  {
+   "uid": "cs12_cabg_avr_fisherman:3838-3844",
+   "note": "cs12_cabg_avr_fisherman",
+   "lo": 3838,
+   "hi": 3844,
+   "kind": "a_only",
+   "category": "address",
+   "text": "Χανίων",
+   "decision": "redact"
+  },
+  {
+   "uid": "ne02_travel_plan:684-689",
+   "note": "ne02_travel_plan",
+   "lo": 684,
+   "hi": 689,
+   "kind": "a_only",
+   "category": "address",
+   "text": "Αθήνα",
+   "decision": "keep"
+  },
+  {
+   "uid": "ne04_01_dialysis_tourist:513-517",
+   "note": "ne04_01_dialysis_tourist",
+   "lo": 513,
+   "hi": 517,
+   "kind": "a_only",
+   "category": "address",
+   "text": "Ρόδο",
+   "decision": "redact"
+  },
+  {
+   "uid": "ne04_02_remote_ckd_telemed:612-618",
+   "note": "ne04_02_remote_ckd_telemed",
+   "lo": 612,
+   "hi": 618,
+   "kind": "a_only",
+   "category": "address",
+   "text": "Σφακιά",
+   "decision": "redact"
+  },
+  {
+   "uid": "cs06_5_bcne_referral:140-146",
+   "note": "cs06_5_bcne_referral",
+   "lo": 140,
+   "hi": 146,
+   "kind": "a_only",
+   "category": "hospital",
+   "text": "Πύργου",
+   "decision": "redact"
+  },
+  {
+   "uid": "cs06_5_bcne_referral:176-188",
+   "note": "cs06_5_bcne_referral",
+   "lo": 176,
+   "hi": 188,
+   "kind": "a_only",
+   "category": "hospital",
+   "text": "Ευαγγελισμού",
+   "decision": "redact"
+  },
+  {
+   "uid": "cs06_5_bcne_referral:452-458",
+   "note": "cs06_5_bcne_referral",
+   "lo": 452,
+   "hi": 458,
+   "kind": "a_only",
+   "category": "hospital",
+   "text": "Πύργου",
+   "decision": "redact"
+  },
+  {
+   "uid": "cs06_5_bcne_referral:663-668",
+   "note": "cs06_5_bcne_referral",
+   "lo": 663,
+   "hi": 668,
+   "kind": "a_only",
+   "category": "hospital",
+   "text": "Πύργο",
+   "decision": "redact"
+  },
+  {
+   "uid": "cs06_5_bcne_referral:956-967",
+   "note": "cs06_5_bcne_referral",
+   "lo": 956,
+   "hi": 967,
+   "kind": "a_only",
+   "category": "hospital",
+   "text": "Ευαγγελισμό",
+   "decision": "redact"
+  },
+  {
+   "uid": "ne04_02_remote_ckd_telemed:851-856",
+   "note": "ne04_02_remote_ckd_telemed",
+   "lo": 851,
+   "hi": 856,
+   "kind": "a_only",
+   "category": "hospital",
+   "text": "ΠΑΓΝΗ",
+   "decision": "redact"
+  },
+  {
+   "uid": "ca02_amyloid_suspicion:373-388",
+   "note": "ca02_amyloid_suspicion",
+   "lo": 373,
+   "hi": 388,
+   "kind": "a_only",
+   "category": "name",
+   "text": "Πέτρο Βασιλείου",
+   "decision": "redact"
+  },
+  {
+   "uid": "ne03_living_donor_eval:2057-2064",
+   "note": "ne03_living_donor_eval",
+   "lo": 2057,
+   "hi": 2064,
+   "kind": "a_only",
+   "category": "name",
+   "text": "Αλεξίου",
+   "decision": "redact"
+  }
+ ]
+}

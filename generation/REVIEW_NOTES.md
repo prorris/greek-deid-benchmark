@@ -1,0 +1,86 @@
+# Items for the clinician review pass
+
+- ca01_nstemi_invasive_day_2: short note (275 words) — kept, flag for review
+- ca01_nstemi_conservative_elderly: short note (275 words) — kept, flag for review
+- ca01_mi_rehab: short note (271 words) — kept, flag for review
+- ca02_hfpef_elderly_diuresed: short note (256 words) — kept, flag for review
+- ca02_new_hfref_workup: short note (267 words) — kept, flag for review
+- ca02_cardiomyopathy_alcohol: [lab_value] value repaired 'NT-proBNP 3200 pg/mL' -> 'NT-proBNP ανευρέθη στα 3200 pg/mL'
+- ca02_cardiomyopathy_alcohol: short note (269 words) — kept, flag for review
+- ca02_dilated_cm_family: short note (271 words) — kept, flag for review
+- ca02_amyloid_suspicion: short note (250 words) — kept, flag for review
+- ca02_hf_iron_deficiency: short note (246 words) — kept, flag for review
+- ca02_cardiorenal_syndrome: short note (268 words) — kept, flag for review
+- ca02_hypertensive_urgency: short note (245 words) — kept, flag for review
+- ca02_mr_moderate: short note (273 words) — kept, flag for review
+- ca03_af_cardioversion_elective: short note (276 words) — kept, flag for review
+- ca03_ppm_complete_av_block: short note (279 words) — kept, flag for review
+- ca03_long_qt_screening: [measurement] value repaired 'LVEF 65%' -> 'LVEF) 65%'
+- ca03_drug_bradycardia: [drug] value repaired 'ατροπίνη 0,5 mg' -> 'ατροπίνη (0,5 mg'
+- ca03_af_hyperthyroidism: [drug] value repaired 'Inderal 40 mg' -> 'Inderal) 40 mg'
+- ca03_af_hyperthyroidism: [drug] value repaired 'Thyrostat 10 mg' -> 'Thyrostat) 10 mg'
+- ca04_renal_artery_stenosis: short note (275 words) — kept, flag for review
+- ca04_cpet_dyspnoea: short note (274 words) — kept, flag for review
+- ca04_statin_myalgia: short note (263 words) — kept, flag for review
+- ca04_pericardial_cyst: short note (266 words) — kept, flag for review
+- cs02_avr_renal: [lab_value] value repaired 'Κρεατινίνη 4,2 mg/dL' -> '4,2 mg/dL'
+- cs03_mitral_repair_p2: short note (277 words) — kept, flag for review
+- cs03_mitral_repair_ring: short note (270 words) — kept, flag for review
+- cs03_mitral_repair_failed_mvr: [procedure] value repaired 'πλαστική της βαλβίδας' -> 'της βαλβίδας'
+- cs03_mitral_postop_af: short note (275 words) — kept, flag for review
+- cs03_mitral_sameday_echo: short note (215 words) — kept, flag for review
+- cs04_asc_aneurysm_elective: short note (275 words) — kept, flag for review
+- cs04_david_procedure: [diagnosis] value repaired 'σοβαρή ανεπάρκεια αορτικής βαλβίδας' -> 'σοβαρή ανεπάρκεια της αορτικής βαλβίδας'
+- cs04_david_procedure: short note (268 words) — kept, flag for review
+- cs04_dissection_malperfusion: [lab_value] value repaired 'κρεατινίνη 1,0 mg/dL' -> '1,0 mg/dL'
+- cs04_aneurysm_cabg_combined: [procedure] survive probe DROPPED (no unique match): 'αντικατάσταση της ανιούσας αορτής'
+- cs05_asd_elderly: [measurement] value repaired 'RVSP 55 mmHg' -> 'RVSP) 55 mmHg'
+- cs06_1_native_avr: [measurement] value repaired 'LVEF 55%' -> 'LVEF) εκτιμήθηκε στο 55%'
+- cs06_2_pve_reop: [measurement] value repaired 'LVEF 50%' -> '50%'
+- cs06_5_bcne_referral: [measurement] value repaired 'LVEF 50%' -> 'LVEF) εκτιμήθηκε στο 50%'
+- cs06_13_cardiac_tumour_embolic: [measurement] value repaired 'LVEF 62%' -> 'LVEF εκτιμήθηκε στο 62%'
+- cs06_sternal_fracture_echo: [lab_value] value repaired 'Κρεατινίνη 0,8 mg/dL' -> 'Κρεατινίνη ήταν 0,8 mg/dL'
+- cs07_lvad_driveline: [lab_value] value repaired 'CRP 45 mg/L' -> 'CRP (45 mg/L'
+- cs08_triple_valve: [measurement] value repaired 'μέση κλίση αορτικής 14 mmHg' -> 'κλίση αορτικής 14 mmHg'
+- cs08_avr_mvr: [measurement] value repaired 'μέση κλίση αορτικής 10 mmHg' -> 'κλίση αορτικής 10 mmHg'
+- cs08_redo_avr: [measurement] value repaired 'μέση κλίση 11 mmHg' -> 'κλίση 11 mmHg'
+- cs08_combined_low_ef: [measurement] value repaired 'μέση κλίση διαμιτροειδικά 3.5 mmHg' -> 'κλίση διαμιτροειδικά 3.5 mmHg'
+- cs08_combined_transfusion: [procedure] value repaired 'αντικατάσταση αορτικής βαλβίδας' -> 'αντικατάστασης αορτικής βαλβίδας'
+- cs08_cabg_avr_79_year_old: [lab_value] value repaired 'κρεατινίνη 1,3 mg/dL' -> '1,3 mg/dL'
+- cs08_combined_prolonged_inotropes: [measurement] value repaired 'CI 1.7 L/min/m2' -> 'CI) 1.7 L/min/m2'
+- cs09_cabg_premium_room: short note (262 words) — kept, flag for review
+- cs09_cabg_rehab: short note (261 words) — kept, flag for review
+- cs09_mitral_flight_islander: short note (247 words) — kept, flag for review
+- cs09_avr_tavi_savr: short note (261 words) — kept, flag for review
+- cs09_cabg_pharmacy_recon: short note (271 words) — kept, flag for review
+- cs11_tavi_ppm: [date] REDACT PROBE UNRESOLVED — fix during clinician review: '10/10/2023'
+- cs11_tavi_ppm: [diagnosis] value repaired 'κλήρης κολποκοιλιακός αποκλεισμός' -> 'κολποκοιλιακός αποκλεισμός'
+- cs11_tricuspid_teer: [date] value repaired 'τον Αύγουστο 2023' -> 'Αύγουστο 2023'
+- cs11_tavi_echo_qc: short note (241 words) — kept, flag for review
+- cs11_laa_occlusion: [date] value repaired 'τον Δεκέμβριο 2023' -> 'Δεκέμβριο 2023'
+- cs11_laa_occlusion: short note (270 words) — kept, flag for review
+- cs11_tavi_excabg: short note (270 words) — kept, flag for review
+- cs11_tavi_rehab_rural: short note (277 words) — kept, flag for review
+- cs11_tavi_sizing: short note (273 words) — kept, flag for review
+- cs11_tavi_lbbb: short note (273 words) — kept, flag for review
+- cs12_asd_teacher: [procedure] value repaired 'εξωσωματική κυκλοφορία' -> 'εξωσωματικής κυκλοφορία'
+- cs12_cabg_avr_fisherman: [greek_abbrev] survive probe DROPPED (no unique match): 'ΧΝΝ'
+- cs12_cabg_avr_fisherman: [measurement] value repaired 'LVEF 45%' -> 'LVEF) εκτιμήθηκε στο 45%'
+- cs12_cabg_retired_clinician: short note (276 words) — kept, flag for review
+- ne01_aki_contrast: short note (270 words) — kept, flag for review
+- ne02_hd_adequacy: [measurement] value repaired 'Kt/V 0.9' -> 'Kt/V: 0.9'
+- ne02_dry_weight: [measurement] value repaired 'ξηρό βάρος 64.5 kg' -> 'ξηρό βάρος (64.5 kg'
+- ne03_tac_toxicity: short note (269 words) — kept, flag for review
+- ne03_recurrent_gn: short note (240 words) — kept, flag for review
+- ne03_tx_skin_cancer: short note (276 words) — kept, flag for review
+- ne03_transplant_vaccination: short note (259 words) — kept, flag for review
+- ne04_05_farmer_pesticides: short note (265 words) — kept, flag for review
+- ne04_06_stone_clinic: short note (269 words) — kept, flag for review
+- ne04_10_amyloidosis_biopsy: short note (241 words) — kept, flag for review
+- ne04_11_fabry_screening: short note (272 words) — kept, flag for review
+- ne04_13_thin_basement_membrane: short note (279 words) — kept, flag for review
+- ne04_hepatorenal_bridge: [lab_value] value repaired 'κρεατινίνη 3,1 mg/dL' -> '3,1 mg/dL'
+- ne04_elderly_ckd_deprescribe: short note (274 words) — kept, flag for review
+
+## ca01 topic-gap repair (17 Aug, late)
+- ca01_stent_thrombosis: case-fixed 'Υπερηχοκαρδιογράφημα' -> 'υπερηχοκαρδιογράφημα'
